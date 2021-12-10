@@ -1,4 +1,4 @@
-Algoritmo "AULA 04 - EXERCICIO 11"
+Algoritmo "AULA 04 - EXERCICIO 12"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Rubem Oliota
 // Descrição   : 11 - aveis, captura de dados, laço de repeticão
